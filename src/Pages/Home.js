@@ -79,7 +79,7 @@ function Home() {
         </h2>
       </div>
       <div className="mt-5 md:mt-0">
-        <img ref={myimageref} className="w-80 h-60 rounded-3xl md:ml-auto border-orange-200 border-4" src={img} alt="Timmy" />
+        <img ref={myimageref} className="w-80 h-70 rounded-3xl md:ml-auto border-orange-200 border-4" src={img} alt="Timmy" />
       </div>
     </main>
   );
