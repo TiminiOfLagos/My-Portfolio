@@ -28,7 +28,7 @@ import ColorPal from "./assets/projects/color-palette.jpg"
 export const personalDetails = {
   name: "Salami Oluwadamilola",
 
-  tagline: "I am a Software Developer and a UI/UX Product Designer",
+  tagline: "I am a Software Developer and a Product Designer(UI/UX)",
 
   img: profile,
 
