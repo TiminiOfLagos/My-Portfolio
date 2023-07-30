@@ -144,7 +144,7 @@ export const projectDetails = [
   {
     title: "Netflix Landing Page Clone",
     image: Netflix,
-    description: `This is a sample project of Netflix landing page i worked on. The Netflix Landing Page Clone Project 
+    description: `This Netflix Landing Page Clone Project 
     is an exciting web development endeavor aimed at replicating the user interface and design of Netflix's landing page.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://merry-moonbeam-39efe0.netlify.app/",
@@ -153,9 +153,7 @@ export const projectDetails = [
   {
     title: "Body Mass Index Calculator",
     image: BMI,
-    description: `This BMI Calculator project is a user-friendly web application built with React, designed to provide 
-    a quick and accurate assessment of an individual's Body Mass Index (BMI). This tool empowers 
-    users to understand their general health status related to their weight, fostering a better awareness of their body composition.`,
+    description: `This BMI Calculator project is a user-friendly web application built with React.`,
     techstack: "React JS, CSS",
     previewLink: "https://stirring-pothos-f3aaec.netlify.app/",
     githubLink: "https://github.com/TiminiOfLagos/Body-mass-calculator/tree/main",
@@ -164,8 +162,7 @@ export const projectDetails = [
     title: "Age Calculator",
     image: AgeCal,
     description: `This Age Range Calculator is a simple web application built with HTML and JavaScript that allows users to determine the age range 
-    they belong to. The calculator prompts the user to input their age and then provides a corresponding age range based on the input. The purpose of 
-    this project is to make it fun and engaging for users to discover which age group they fall into, creating an interactive and enjoyable experience.`,
+    they belong to.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://strong-maamoul-b495eb.netlify.app/",
     githubLink: "https://github.com/TiminiOfLagos/AG-Cal/tree/main",
@@ -173,10 +170,7 @@ export const projectDetails = [
   {
     title: "Color Flipper",
     image: ColorPal,
-    description: `This Color Flipper is an interactive web project built with HTML, CSS, and JavaScript that allows users to explore and discover various colors. 
-    It provides information about named colors, their corresponding hexadecimal (hex) values, and RGB values. Whether you are a designer, developer, or simply 
-    an enthusiast, this Color Flipper is a fun tool to learn and play around with colors. Upon loading the page or clicking a "Change Color" button, the Color Flipper 
-    will randomly display a new color along with its name, hex value, and RGB value as you navigate through. This feature offers an endless array of colors to explore.`,
+    description: `This Color Flipper is an interactive web project built with HTML, CSS, and JavaScript that allows users to explore various named, hex and RGB colors.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://inquisitive-otter-ec88c3.netlify.app/",
     githubLink: "https://github.com/TiminiOfLagos/Color-Flipper",
