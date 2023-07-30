@@ -40,8 +40,7 @@ export const personalDetails = {
   firstStack : `As a software developer, I relish the opportunity to bring ideas to 
   life through code. My journey in the world of programming began Febuary 2022 and for a year and some couple of months, 
   I have honed my skills in a variety of programming languages and frameworks, allowing me to build robust, 
-  efficient, and scalable applications. My hands-on experience in [mention specific areas, 
-  e.g., web development, mobile apps, etc.] has instilled in me a problem-solving 
+  efficient, and scalable applications. My hands-on experience in web development, mobile apps, etc has instilled in me a problem-solving 
   mindset and an insatiable curiosity to stay at the forefront of technological advancements.`,
 
   secondStack : `Being a product designer, I believe in the magic of design thinking. I'm captivated 
